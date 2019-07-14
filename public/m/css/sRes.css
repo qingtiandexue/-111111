@@ -1,0 +1,22 @@
+.container {
+    padding: 50px 10px 60px 10px;
+}
+.mui-row {
+    text-align: center;
+    font-size: 14px;
+    background-color: rgb(226, 223, 223);
+}
+.mui-row span {
+    font-size: 14px;
+}
+.mui-table-view-cell {
+    padding: 9px 0;
+}
+.more {
+    width: 100%;
+    text-align: center;
+}
+.refreshContainer {
+    position: absolute;
+    top: 44px;
+}
